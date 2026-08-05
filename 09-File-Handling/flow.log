@@ -1,0 +1,5 @@
+INFO : Start
+INFO : Read Netlist
+ERROR: Missing Library
+INFO : Placement
+ERROR: Clock Missing

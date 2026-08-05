@@ -1,0 +1,9 @@
+INFO: Reading Netlist
+INFO: Reading Libraries
+WARNING: Missing Timing Constraint
+INFO: Floorplanning Started
+ERROR: Clock Not Found
+INFO: Placement Started
+WARNING: Unconnected Port
+ERROR: Timing Violation
+INFO: Flow Completed

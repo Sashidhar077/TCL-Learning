@@ -1,0 +1,8 @@
+Student Report
+
+Name   : Rahul
+Roll   : 23ECE101
+Branch : ECE
+Marks  : 92
+Grade  : A
+Result : PASS
