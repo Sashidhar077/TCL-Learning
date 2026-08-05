@@ -6,7 +6,7 @@ Regular Expressions (Regex) are one of the most powerful features of Tcl. They a
 
 Regex is extensively used in **EDA/VLSI automation** to parse :
 
-- Timing Reports
+- Timing Reports     
 - Power Reports
 - Area Reports
 - DRC Reports
