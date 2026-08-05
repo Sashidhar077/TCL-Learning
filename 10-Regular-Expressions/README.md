@@ -4,7 +4,7 @@
 
 Regular Expressions (Regex) are one of the most powerful features of Tcl. They allow you to **search**, **match**, **extract**, and **replace** text using patterns instead of exact strings.
 
-Regex is extensively used in **EDA/VLSI automation** to parse :___
+Regex is extensively used in **EDA/VLSI automation** to parse :
 
 - Timing Reports
 - Power Reports
