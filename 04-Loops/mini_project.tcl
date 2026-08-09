@@ -9,7 +9,7 @@ Problem Statement
 Generate a report for multiple students.
 
 Input
-
+ 
 Names:
 Rahul Priya Arjun Sneha Kiran
 
