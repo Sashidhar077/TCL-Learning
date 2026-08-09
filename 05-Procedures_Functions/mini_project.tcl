@@ -11,7 +11,7 @@ Power (default exponent = 2)
 
 Each calculation must be implemented as a separate procedure.
 }
-
+ 
 #==============procedure definitions==================
 proc add {a b} {
     return [expr {$a + $b}]
