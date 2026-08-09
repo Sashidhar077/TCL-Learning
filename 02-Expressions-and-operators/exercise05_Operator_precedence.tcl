@@ -6,7 +6,7 @@ set b 5
 set c 2
 
 Calculate:
-
+ 
 a + b * c
 (a + b) * c
 a - b / c

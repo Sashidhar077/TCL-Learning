@@ -7,7 +7,7 @@ num1 = 25
 num2 = 10
 
 Calculate and display:
-
+ 
 Addition
 Subtraction
 Multiplication
