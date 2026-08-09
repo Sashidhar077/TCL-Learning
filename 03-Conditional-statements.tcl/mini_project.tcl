@@ -9,7 +9,7 @@ Student Name : Rahul
 Marks        : 82
 Attendance   : 91
 
-Rules:
+Rules: 
 
 Pass/Fail
 Marks ≥ 40 → Pass
