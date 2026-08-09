@@ -6,7 +6,7 @@ Create the following variables:
 Student Name : Rahul
 Course       : Tcl Programming
 Institute    : OpenAI Academy
-
+ 
 Display the following output:
 
 ============================
