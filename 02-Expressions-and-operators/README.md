@@ -8,7 +8,7 @@
 - Comparison operators
 - Logical operators
 - Operator precedence
-
+ 
 ## Exercises
  
 1. Simple Calculator
