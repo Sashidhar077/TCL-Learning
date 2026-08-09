@@ -4,7 +4,7 @@ if {0} {
 set timingClean 1
 set drcClean 0
 set ecoMode 1
-
+ 
 Print  the results of:
 
 timingClean && drcClean
