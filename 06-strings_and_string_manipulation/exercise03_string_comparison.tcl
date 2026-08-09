@@ -9,7 +9,7 @@ Check:
 Case-sensitive equality
 Case-insensitive equality
 
-Display both results.
+Display  both results.
 }
 
 set tool1 PrimeTime
