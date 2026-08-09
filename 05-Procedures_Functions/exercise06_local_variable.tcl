@@ -5,7 +5,7 @@ Inside the procedure:
 
 Create a variable called studentName
 Print it
-
+ 
 After calling the procedure, try printing the variable again.
 
 Observe the error.
