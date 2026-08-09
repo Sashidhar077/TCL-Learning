@@ -11,7 +11,7 @@ Then update it to:
 
 65000
 
-Print the updated salary.
+Print the updated salary. 
 }
 
 set old_salary 50000

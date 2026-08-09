@@ -7,7 +7,7 @@ company = "OpenAI"
 Print the following output:
 
 Name    : Rahul
-Company : OpenAI
+Company : OpenAI 
 }
 
 set name Rahul

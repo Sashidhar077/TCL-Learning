@@ -16,4 +16,4 @@ set firstName Rahul
 set lastName Sharma
 
 append firstName $lastName  #append modifies the existing variable directly
-puts "Full Name : $firstName"
+puts "Full Name : $firstName" 
