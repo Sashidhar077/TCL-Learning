@@ -8,7 +8,7 @@
 - Variable reassignment
 - `append`
 - `incr`
-
+ 
 ## Exercises
  
 - Hello Variables
