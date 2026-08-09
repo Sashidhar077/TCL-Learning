@@ -10,7 +10,7 @@ Print the following pattern:
 * * * *
 * * * * *
 }
-
+ 
 puts "----------------Star pattern---------------------"
 puts ""
 for {set rows 1} {$rows <=5} {incr rows} {
