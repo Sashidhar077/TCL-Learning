@@ -15,7 +15,7 @@ set count 0
 set fp [open "power.rpt" r]
 
 while {[gets $fp line] != -1} {
-
+ 
     incr count
     puts $line
 }
