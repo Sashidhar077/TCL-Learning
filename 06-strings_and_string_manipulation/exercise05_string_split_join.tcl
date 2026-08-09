@@ -8,7 +8,7 @@ Perform the following:
 Split the string into a list.
 Print each tool name separately.
 Join the list using " | ".
-}
+} 
 
 set p "PrimeTime,Innovus,VCS,ICC2"
 set q [split $p ","]
