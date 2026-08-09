@@ -11,7 +11,7 @@ if {$age >=18} {
 }  else {
     puts " Not eligible for voting"
 }
-
+ 
 
 
 
