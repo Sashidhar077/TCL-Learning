@@ -12,7 +12,7 @@ Sneha
 Kiran
 
 Print each student's name.
-}
+} 
 
 set names {Rahul Priya Arjun Sneha Kiran} 
 puts "Student Names" 
