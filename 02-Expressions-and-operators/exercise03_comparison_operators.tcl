@@ -5,7 +5,7 @@ Create two variables:
 
 set num1 25
 set num2 40
- 
+  
 Perform the following comparisons and print the results:
 
 Is num1 equal to num2?
