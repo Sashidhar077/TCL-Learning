@@ -16,7 +16,7 @@ array set p {
     version 23.1
     license Active
 }
-
+ 
 puts "===========EDA Tool Information============================\n"
 puts "Name      : $p(name)"
 puts "Compnay   : $p(company)"
