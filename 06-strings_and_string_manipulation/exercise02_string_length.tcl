@@ -6,7 +6,7 @@ Create variables:
 Student Name : Rahul
 Course       : Tcl Programming
 Company      : Synopsys
-
+ 
 Display each string and its length.
 }
 
