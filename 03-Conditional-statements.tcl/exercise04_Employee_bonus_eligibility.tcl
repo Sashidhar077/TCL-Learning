@@ -6,7 +6,7 @@ An employee receives a bonus only if:
 
 Experience ≥ 5 years
 Performance Rating ≥ 4
-
+ 
 Use:
 
 set experience 6
