@@ -6,4 +6,4 @@ ERROR: Clock Not Found
 INFO: Placement Started
 WARNING: Unconnected Port
 ERROR: Timing Violation
-INFO: Flow Completed
+INFO: Flow Completed 
