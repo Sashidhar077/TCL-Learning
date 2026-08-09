@@ -32,7 +32,7 @@ foreach item $items {
     if {[regexp {[a-z]} $item]} {
         puts "Lowercase Found"
     }
-
+ 
     if {[regexp {[A-Z]} $item]} {
         puts "Uppercase Found"
     }
