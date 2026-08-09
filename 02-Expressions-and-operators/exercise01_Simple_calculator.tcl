@@ -2,7 +2,7 @@ if {0} {
     Question
 
 Create two variables:
-
+ 
 num1 = 25
 num2 = 10
 
