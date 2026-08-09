@@ -10,7 +10,7 @@
 - `incr`
 
 ## Exercises
-
+ 
 - Hello Variables
 - Variable Reassignment
 - Swap Variables
