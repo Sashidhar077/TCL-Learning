@@ -9,7 +9,7 @@
 - Multiple Conditions
 
 ## Exercises
-
+ 
 1. Voting Eligibility
 2. if-else
 3. Grade Calculator
