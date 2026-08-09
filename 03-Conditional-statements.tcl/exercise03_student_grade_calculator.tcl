@@ -7,7 +7,7 @@ Create a variable:
 set marks 82
 
 Display the grade using the following rules:
-
+ 
 Marks	Grade
 ≥ 90	A
 ≥ 75	B
