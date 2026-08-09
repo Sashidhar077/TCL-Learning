@@ -13,7 +13,7 @@ Title Case
 
 set tool "PrimeTime"
 puts "Original  : $tool"
-
+ 
 set a [string toupper $tool]
 set b [string tolower $tool]
 set c [string totitle $tool]
