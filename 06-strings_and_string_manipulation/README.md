@@ -3,7 +3,7 @@
 Welcome to **Module 6** of the **Complete Tcl Programming Course**.
 
 Strings are one of the most frequently used data types in Tcl scripting. Whether you're writing automation scripts, parsing reports, processing log files, or working with EDA tools like **PrimeTime**, **ICC2**, or **Innovus**, you'll spend a significant amount of time manipulating strings.
-
+ 
 This module covers all the essential string operations required for professional Tcl scripting and EDA automation.
 
 ---
