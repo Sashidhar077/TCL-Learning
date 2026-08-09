@@ -6,4 +6,4 @@ set data [read $fp 7]
 
 close $fp
 
-puts $data
+puts $data 
