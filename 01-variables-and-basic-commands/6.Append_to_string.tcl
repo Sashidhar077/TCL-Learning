@@ -8,7 +8,7 @@ firstName = Rahul
 lastName = Sharma
 
 Use append to combine them into:
-
+ 
 Rahul Sharma
 }
 
