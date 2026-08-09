@@ -10,7 +10,7 @@ Procedure
 showCompany
 
 Print the company name.
-}
+} 
 
 set company "Tech Corp"
 proc showCompany {} {
