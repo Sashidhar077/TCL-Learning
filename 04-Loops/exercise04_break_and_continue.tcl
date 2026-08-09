@@ -9,7 +9,7 @@ Skip 5.
 
 for {set i 1} {$i <= 10} {incr i} {
    
-  
+   
     if {$i == 6} {
         break
     }
