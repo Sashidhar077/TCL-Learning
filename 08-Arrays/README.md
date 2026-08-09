@@ -59,7 +59,7 @@ Arrays are extensively used in **EDA/VLSI Tcl scripting** to store:
 - Creating arrays
 - Key-value pairs
 - Basic array syntax
-
+ 
 ### Commands Learned
 
 ```tcl
