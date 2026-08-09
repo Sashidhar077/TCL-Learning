@@ -3,7 +3,7 @@ if {0} {
 Problem Statement
 
 Write a Tcl program to print numbers from 1 to 10 using a while loop.
-}
+} 
 
 set i 1
 puts "Numbers from 1 to 10 "
