@@ -15,7 +15,7 @@ No Timing Violation
 set Path1 "-0.25 FAIL"
 
 set result [regexp {FAIL} $Path1]
-
+ 
 if {$result} {
     puts "Timing Violation Found \n"
 } else {
