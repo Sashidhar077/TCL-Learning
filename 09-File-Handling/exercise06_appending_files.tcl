@@ -22,7 +22,7 @@ puts $fp "Grade     : A"
 puts $fp "CGPA      : 9"
 
 close $fp
-
+ 
 puts "Information added successfully"
 
 
