@@ -34,7 +34,7 @@ foreach key [lsort [array names p]] {
     puts "$key : $p($key)"
 }
 puts "\n Deleting Entire Array.....\n"
-
+ 
 array unset p
 if {[array exists p]==0} {
     puts "Entire array is deleted"
