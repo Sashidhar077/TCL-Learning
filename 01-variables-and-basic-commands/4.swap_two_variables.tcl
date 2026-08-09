@@ -23,6 +23,6 @@ set b $temp
 
 puts ""
 puts "After swap" 
-
+ 
 puts "a = $a"
 puts "b = $b"
