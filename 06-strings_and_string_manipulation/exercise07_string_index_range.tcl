@@ -10,7 +10,7 @@ Print the last character.
 Extract "timing".
 Extract "report.rpt".
 }
-
+ 
 
 set r "timing_report.rpt"
 puts "Filename  : $r"
