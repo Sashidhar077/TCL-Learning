@@ -31,7 +31,7 @@ while {[gets $logFile line] != -1} {
 
     if {[regexp {^INFO:} $line]} {
         incr infoCount
-    }
+    } 
 
     if {[regexp {^WARNING:} $line]} {
         incr warningCount
