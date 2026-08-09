@@ -8,7 +8,7 @@ Perform these operations:
 Find the word "Report"
 Replace "Timing" with "Power"
 Replace "Successfully" with "Completed"
-}
+} 
 
 set timingreport "Timing Report Generated Successfully"
 set find [string first "Report" $timingreport ]
