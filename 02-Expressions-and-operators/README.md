@@ -10,7 +10,7 @@
 - Operator precedence
 
 ## Exercises
-
+ 
 1. Simple Calculator
 2. Scientific Calculator
 3. Comparison Operators
