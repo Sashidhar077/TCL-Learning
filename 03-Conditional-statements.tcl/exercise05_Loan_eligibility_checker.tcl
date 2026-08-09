@@ -8,7 +8,7 @@ Salary ≥ 50000
 Credit Score ≥ 750
 
 Create the following variables:
-
+ 
 set salary 60000
 set creditScore 780
 
