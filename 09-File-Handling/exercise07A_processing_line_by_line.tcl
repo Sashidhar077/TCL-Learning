@@ -20,7 +20,7 @@ while {[gets $fp line] != -1} {
         incr errorcount
     }
 }
-
+ 
 close $fp
 
 puts "Total number of errors : $errorcount"
