@@ -39,7 +39,7 @@ foreach item $testStrings {
     if {[regexp {P.th} $item]} {
 
         puts "$item -> Match"
-
+ 
     } else {
 
         puts "$item -> No Match"
