@@ -23,9 +23,9 @@ department  VLSI \
 ]
 
 puts "=============Employee dictionary==================="
-dict set $employee salary 50000
-dict set $employee experience 2
-dict set $employee department ASIC
+dict set employee salary 50000
+dict set employee experience 2
+dict set employee department ASIC
 puts $employee
 
 
