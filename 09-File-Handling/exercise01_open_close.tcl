@@ -26,7 +26,7 @@ if {0} {
     Question
 
 Create a file named:
-
+ 
 report.txt
 
 Open it in write mode and immediately close it.
