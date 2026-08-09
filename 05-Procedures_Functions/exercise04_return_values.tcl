@@ -10,7 +10,7 @@ Store the returned value in a variable and print it.
 
 proc addNumbers {a b} {
     return [expr {$a + $b}]
-}
+} 
 
 set num1 2
 set num2 4
