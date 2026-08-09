@@ -267,7 +267,7 @@ if {[catch {open "file.txt" r} fp]} {
 | Used in loops | Used once |
 | Memory efficient | Loads whole file into memory |
 
----
+--- 
 
 # 💡 Write Mode vs Append Mode
 
