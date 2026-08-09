@@ -5,7 +5,7 @@ Welcome to Tcl Programming!
 
 Call the procedure three times.
 }
-
+ 
 #procedure definition
 proc greet {} {
     puts "Welcome to TCl Programming"
