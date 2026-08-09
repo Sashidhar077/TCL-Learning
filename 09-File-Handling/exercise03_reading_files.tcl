@@ -25,7 +25,7 @@ gets $fpr line3
 gets $fpr line4
 gets $fpr line5
 gets $fpr line6
-
+ 
 puts $line1
 puts $line2
 puts $line3
