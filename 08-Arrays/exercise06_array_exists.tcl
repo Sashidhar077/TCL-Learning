@@ -18,7 +18,7 @@ if {[array exists tool] == 1} {
     puts "tool Array Exists"
 } else {
     puts "tool Array Not Exists"
-}
+} 
 puts "-----------------------------------"
 puts ""
 
