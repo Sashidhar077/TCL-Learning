@@ -3,7 +3,7 @@ Question :
 Create two variables:
 name = "Rahul"
 company = "OpenAI"
-
+ 
 Print the following output:
 
 Name    : Rahul
