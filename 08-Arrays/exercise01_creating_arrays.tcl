@@ -9,7 +9,7 @@ license	Active
 
 Display all values.
 }
-
+ 
 set p(name) PrimeTime
 set p(company) Synopsys
 set p(version) R2024.03
