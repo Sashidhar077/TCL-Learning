@@ -13,7 +13,7 @@ Close the file.
 Print a success message on the console.
 }
 
-
+ 
 puts "Writing Student Report...... \n"
 
 set fp [open "student.txt" w]
