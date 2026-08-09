@@ -10,7 +10,7 @@ FAIL
 with
 
 PASS
-
+ 
 Display both:
 
 Original string
