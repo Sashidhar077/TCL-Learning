@@ -8,7 +8,7 @@ salary = 50000
 Print it.
 
 Then update it to:
-
+ 
 65000
 
 Print the updated salary. 
