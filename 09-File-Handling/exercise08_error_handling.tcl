@@ -45,7 +45,7 @@ if {$status == 0} {
     puts "File Closed Successfully"
 
 } else {
-
+ 
     puts "Error Opening File!"
     puts ""
     puts $fileHandle
