@@ -8,7 +8,7 @@ If age is 18 or above, print:
 Eligible for Voting
 }
 
-set age 20
+set age 20 
 
 puts "Age : $age"
 if {$age>=18} {
