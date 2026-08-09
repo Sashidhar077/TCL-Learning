@@ -5,7 +5,7 @@ if {0} {
 num1 = 25
 num2 = 4
 num3 = -18.75
- 
+  
 Calculate and print:
 
 Floating-point division (25 ÷ 4)
