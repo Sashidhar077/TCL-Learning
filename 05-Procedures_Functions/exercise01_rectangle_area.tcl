@@ -5,7 +5,7 @@ Accept:
 
 Length
 Width
-
+ 
 Print the area.
 }
 
