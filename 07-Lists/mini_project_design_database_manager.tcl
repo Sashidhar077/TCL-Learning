@@ -15,7 +15,7 @@ set tool {
     {ICC2 Synopsys}
     {Innovus Cadence}
     {Genus Cadence}
-}
+} 
 
 #display
 puts "========EDA tool database========\n"
