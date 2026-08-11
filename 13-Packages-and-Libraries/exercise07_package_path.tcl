@@ -15,19 +15,11 @@ Expected Output
 Hello from Greeting package
 }
 
-# Get the directory containing this script
-
 set package_dir [file dirname [info script]]
-
-# Add package directory to auto_path
 
 lappend auto_path $package_dir
 
-# Load Greeting package
-
 package require greet 1.0
-
-# Use the package
 
 greet::hello
 
