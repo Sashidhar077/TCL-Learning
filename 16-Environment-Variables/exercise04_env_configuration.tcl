@@ -21,17 +21,3 @@ puts "Project Name: $project_name"
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
