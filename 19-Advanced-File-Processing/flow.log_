@@ -1,0 +1,6 @@
+INFO: Starting synthesis
+INFO: Reading design
+WARNING: Missing constraint
+ERROR: Library not found
+INFO: Synthesis completed
+ERROR: Timing analysis failed
