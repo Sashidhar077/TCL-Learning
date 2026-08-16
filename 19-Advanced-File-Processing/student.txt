@@ -1,0 +1,3 @@
+This is Tcl
+Tcl is useful
+TCL stands for Tool Command Language
